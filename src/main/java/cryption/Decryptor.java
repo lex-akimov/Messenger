@@ -1,4 +1,4 @@
-package messenger.cryption;
+package cryption;
 
 public interface Decryptor {
     static String TextDecrypt(String input) {

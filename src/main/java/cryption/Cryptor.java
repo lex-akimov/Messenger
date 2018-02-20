@@ -1,4 +1,4 @@
-package messenger.cryption;
+package cryption;
 
 public interface Cryptor {
     static String TextCrypt(String input) {

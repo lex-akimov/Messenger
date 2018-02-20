@@ -1,4 +1,4 @@
-package messenger.cryption;
+package cryption;
 
 public class SimpleDecryptor implements Decryptor {
 
